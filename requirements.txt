@@ -1,7 +1,7 @@
 requests
 nltk
 spotipy
-BeautifulSoup
+beautifulsoup4
 pandas
 seaborn
 matplotlib
