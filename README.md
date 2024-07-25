@@ -1,6 +1,8 @@
 # Digital Humanities 140 Final Project
 ## Andrew Schweitzer
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewschweitzer/dh140final/main)
+
 **Data and viz of interest**
 1. [Education big data and learning analytics: a bibliometric analysis](https://www.nature.com/articles/s41599-023-02176-x)
 * I am interested in this article because I have never heard of analytics being used in an education setting and would like to learn how analytics could enhance and improve education
